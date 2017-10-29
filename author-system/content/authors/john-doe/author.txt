@@ -1,0 +1,9 @@
+name: John Doe
+----
+bio: John is an awesome author with years of experience
+----
+email: john@doe.com
+----
+website: http://john.doe.com
+----
+twitter: http://twitter.com/johndoe
